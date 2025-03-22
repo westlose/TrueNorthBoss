@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Draws a North arrow on the target ring.",
     "DalamudApiLevel": 8,
-    "DownloadLinkInstall": "https://github.com/YOUR_USERNAME/TrueNorthBoss/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/westlose/TrueNorthBoss/releases/latest/download/latest.zip",
     "ApplicableVersion": "any"
   }
 ]
