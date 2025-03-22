@@ -1,0 +1,12 @@
+{
+  "Author": "westlose",
+  "Name": "TrueNorthBoss",
+  "Punchline": "Displays a line on the target ring, indicating the true north at all times.",
+  "Description": "A tool mostly useful for tanking, as you might wonder where the true north is when the boss moves too much. All you have to do is line up the boss' arrow with the plugin's line.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
